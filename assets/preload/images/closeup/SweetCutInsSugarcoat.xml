@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="SweetCutInsSugarcoat.png">
+	<!-- Created with Adobe Animate version 23.0.0.407 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="SugarCutinSugarcoat0000" x="10" y="10" width="1280" height="268"/>
+	<SubTexture name="SugarCutinSugarcoat0001" x="10" y="10" width="1280" height="268"/>
+	<SubTexture name="SugarCutinSugarcoat0002" x="10" y="10" width="1280" height="268"/>
+	<SubTexture name="SugarCutinSugarcoat0003" x="10" y="10" width="1280" height="268"/>
+	<SubTexture name="SugarCutinSugarcoat0004" x="10" y="10" width="1280" height="268"/>
+	<SubTexture name="SugarCutinSugarcoat0005" x="10" y="288" width="1280" height="268"/>
+	<SubTexture name="SugarCutinSugarcoat0006" x="10" y="288" width="1280" height="268"/>
+	<SubTexture name="SugarCutinSugarcoat0007" x="10" y="288" width="1280" height="268"/>
+	<SubTexture name="SugarCutinSugarcoat0008" x="10" y="288" width="1280" height="268"/>
+	<SubTexture name="SugarCutinSugarcoat0009" x="10" y="288" width="1280" height="268"/>
+</TextureAtlas>
