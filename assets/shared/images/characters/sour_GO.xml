@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sour_GO.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="SourDIE0000" x="0" y="0" width="473" height="691" frameX="-99" frameY="0" frameWidth="571" frameHeight="700"/>
+	<SubTexture name="SourDIE0001" x="473" y="0" width="473" height="691" frameX="-99" frameY="0" frameWidth="571" frameHeight="700"/>
+	<SubTexture name="SourDIE0002" x="946" y="0" width="457" height="691" frameX="-99" frameY="0" frameWidth="571" frameHeight="700"/>
+	<SubTexture name="SourDIE0003" x="1403" y="0" width="457" height="691" frameX="-99" frameY="0" frameWidth="571" frameHeight="700"/>
+	<SubTexture name="SourDIE0004" x="1860" y="0" width="527" height="700" frameX="-11" frameY="0" frameWidth="571" frameHeight="700"/>
+	<SubTexture name="SourDIE0005" x="2387" y="0" width="527" height="700" frameX="-11" frameY="0" frameWidth="571" frameHeight="700"/>
+	<SubTexture name="SourDIE0006" x="2914" y="0" width="537" height="700" frameX="0" frameY="0" frameWidth="571" frameHeight="700"/>
+	<SubTexture name="SourDIE0007" x="3451" y="0" width="537" height="700" frameX="0" frameY="0" frameWidth="571" frameHeight="700"/>
+	<SubTexture name="SourDIE0008" x="0" y="700" width="537" height="700" frameX="0" frameY="0" frameWidth="571" frameHeight="700"/>
+	<SubTexture name="SourDIE0009" x="537" y="700" width="537" height="700" frameX="0" frameY="0" frameWidth="571" frameHeight="700"/>
+	<SubTexture name="SourDIE0010" x="1074" y="700" width="537" height="700" frameX="0" frameY="0" frameWidth="571" frameHeight="700"/>
+	<SubTexture name="SourDIE0011" x="1611" y="700" width="537" height="700" frameX="0" frameY="0" frameWidth="571" frameHeight="700"/>
+	<SubTexture name="SourDIE0012" x="2148" y="700" width="537" height="700" frameX="0" frameY="0" frameWidth="571" frameHeight="700"/>
+	<SubTexture name="SourDIE0013" x="2685" y="700" width="537" height="700" frameX="0" frameY="0" frameWidth="571" frameHeight="700"/>
+	<SubTexture name="SourDIELoop0000" x="0" y="1400" width="537" height="700" frameX="0" frameY="-7" frameWidth="537" frameHeight="707"/>
+	<SubTexture name="SourDIELoop0001" x="537" y="1400" width="537" height="707"/>
+	<SubTexture name="SourDIELoop0002" x="537" y="1400" width="537" height="707"/>
+	<SubTexture name="SourDIELoop0003" x="1074" y="1400" width="537" height="703" frameX="0" frameY="-4" frameWidth="537" frameHeight="707"/>
+	<SubTexture name="SourDIELoop0004" x="1074" y="1400" width="537" height="703" frameX="0" frameY="-4" frameWidth="537" frameHeight="707"/>
+	<SubTexture name="SourDIELoop0005" x="1611" y="1400" width="537" height="701" frameX="0" frameY="-6" frameWidth="537" frameHeight="707"/>
+	<SubTexture name="SourDIELoop0006" x="1611" y="1400" width="537" height="701" frameX="0" frameY="-6" frameWidth="537" frameHeight="707"/>
+	<SubTexture name="SourDIELoop0007" x="0" y="1400" width="537" height="700" frameX="0" frameY="-7" frameWidth="537" frameHeight="707"/>
+	<SubTexture name="SourDIELoop0008" x="0" y="1400" width="537" height="700" frameX="0" frameY="-7" frameWidth="537" frameHeight="707"/>
+	<SubTexture name="SourDIELoop0009" x="0" y="1400" width="537" height="700" frameX="0" frameY="-7" frameWidth="537" frameHeight="707"/>
+	<SubTexture name="SourDIELoop0010" x="0" y="1400" width="537" height="700" frameX="0" frameY="-7" frameWidth="537" frameHeight="707"/>
+	<SubTexture name="SourDIELoop0011" x="0" y="1400" width="537" height="700" frameX="0" frameY="-7" frameWidth="537" frameHeight="707"/>
+	<SubTexture name="SourDIELoop0012" x="0" y="1400" width="537" height="700" frameX="0" frameY="-7" frameWidth="537" frameHeight="707"/>
+	<SubTexture name="SourDIELoop0013" x="0" y="1400" width="537" height="700" frameX="0" frameY="-7" frameWidth="537" frameHeight="707"/>
+	<SubTexture name="SourDIELoop0014" x="0" y="1400" width="537" height="700" frameX="0" frameY="-7" frameWidth="537" frameHeight="707"/>
+</TextureAtlas>
