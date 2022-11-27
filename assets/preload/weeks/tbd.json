@@ -1,0 +1,24 @@
+{
+	"songs": [
+		["Cranberry Pop", "soursweet", [165, 0, 77]],
+		["Rockcandy", "soursweet", [165, 0, 77]],
+		["timeshock", "soursweet", [165, 0, 77]],
+		["Sugarcoat It", "soursweethappy", [165, 0, 77]]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "",
+
+	"storyName": "",
+	"weekBefore": "tbd",
+	"weekName": "Flavor Rave",
+	"startUnlocked": true,
+
+	"hideStoryMode": true,
+	"hideFreeplay": false,
+	"difficulties": "Normal"
+}
