@@ -1,0 +1,66 @@
+{
+	"song": {
+		"events": [
+			[
+				29000,
+				[
+					[
+						"Change Camera Zoom",
+						"0.7",
+						"0.1"
+					]
+				]
+			],
+			[
+				59765.625,
+				[
+					[
+						"Change Character",
+						"dad",
+						"sour-close"
+					],
+					[
+						"Change Character",
+						"bf",
+						"sweet-close"
+					]
+				]
+			],
+			[
+				90351.5625,
+				[
+					[
+						"Change Character",
+						"dad",
+						"sour"
+					],
+					[
+						"Change Character",
+						"bf",
+						"sweet"
+					]
+				]
+			],
+			[
+				120000,
+				[
+					[
+						"Change Camera Zoom",
+						"0.8",
+						"0.6"
+					]
+				]
+			],
+			[
+				150000,
+				[
+					[
+						"Change Camera Zoom",
+						"0.6",
+						""
+					]
+				]
+			]
+		]
+	}
+}
